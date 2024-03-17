@@ -10,5 +10,5 @@ function updateName() {
     return;
   }
 
-  nameOutput.textContent = ` ${name}!`;
+  nameOutput.textContent = name;
 }
